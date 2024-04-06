@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time Complexity : -
+// Best : O(n)
+// Worst : O(n^2)
+// Average : O(n^2)
+
 void InsertionSort(int arr[], int n)
 {
     for (int i = 1; i < n; i++)

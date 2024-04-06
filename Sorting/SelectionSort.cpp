@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time Complexity :-
+// Best : O(n^2)
+// Worst : O(n^2)
+// Average : O(n^2)
+
 void SelectionSort(int arr[], int n)
 {
     for (int i = 0; i < n; i++)
